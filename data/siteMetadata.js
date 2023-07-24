@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'dongstop | 无业游民',
+  title: 'dongstop',
   author: '找不着东',
-  headerTitle: '一个博客',
+  headerTitle: '找不着东',
   description: '就是玩儿',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -15,7 +15,7 @@ const siteMetadata = {
   juejin: 'https://juejin.cn/user/2189882895384093',
   zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
   locale: 'zh-CN',
-  welcome: '人以是非定立场，奴以立场定',
+  welcome: '人以是非定立场，奴以立场定是非',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。

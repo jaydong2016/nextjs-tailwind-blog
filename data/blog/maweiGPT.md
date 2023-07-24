@@ -1,10 +1,10 @@
 ---
-title: '清澈见底 测试'
+title: '妈味 GPT'
 date: '2023/7/22'
 lastmod: '2022/2/25'
 tags: [工具]
 draft: false
-summary: '妈味 GPT '
+summary: 'GPT聊天记录 '
 authors: ['default']
 layout: PostLayout
 ---
