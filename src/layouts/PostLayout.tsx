@@ -119,7 +119,7 @@ export default function PostLayout(props: Props) {
                   />
                 </div>
 
-                <span>关注微信公众号，获取最新原创文章（首发）</span>
+                <span>8888888</span>
                 <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
               </div>
               <Comments frontMatter={frontMatter} />
