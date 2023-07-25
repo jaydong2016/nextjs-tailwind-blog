@@ -13,7 +13,8 @@ const siteMetadata = {
   email: '147258369@163.com',
   github: '',
   locale: 'zh-CN',
-  welcome: '人以是非定立场，\n奴以立场定是非',
+  welcome: '人以是非定立场',
+  '奴以立场定是非',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
