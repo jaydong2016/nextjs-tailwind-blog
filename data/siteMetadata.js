@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'adone',
   headerTitle: '海阔天空',
   description: 'dongstop',
-  language: 'en-us',
+  language: 'zh-CN',
   theme: 'system', // system, dark or light
   siteUrl: 'https://maqib.cn',
   siteRepo: 'https://github.com/maqi1520/nextjs-tailwind-blog',
@@ -13,7 +13,7 @@ const siteMetadata = {
   email: '147258369@163.com',
   github: '',
   locale: 'zh-CN',
-  welcome: '人以是非定立场，\n奴以立场定是非',
+  welcome: '天空海阔爱自由',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
