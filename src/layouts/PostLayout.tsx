@@ -118,8 +118,7 @@ export default function PostLayout(props: Props) {
                     src={`/static/images/runjs-cool.webp`} 底图
                   />*/}
                 </div>
-
-                <span>adone</span>
+                {/*<span>adone</span>*/}
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
