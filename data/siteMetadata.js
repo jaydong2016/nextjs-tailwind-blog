@@ -10,10 +10,8 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'maqi1520@163.com',
-  github: 'https://github.com/maqi1520',
-  juejin: 'https://juejin.cn/user/2189882895384093',
-  zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
+  email: '147258369@163.com',
+  github: '',
   locale: 'zh-CN',
   welcome: '人以是非定立场，奴以立场定是非',
   analytics: {
