@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'dongstop',
-  author: '找不着东',
-  headerTitle: '找不着东',
-  description: '就是玩儿',
+  author: 'adone',
+  headerTitle: '海阔天空',
+  description: 'dongstop',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://maqib.cn',

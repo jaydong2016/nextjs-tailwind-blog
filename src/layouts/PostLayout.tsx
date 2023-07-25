@@ -119,7 +119,7 @@ export default function PostLayout(props: Props) {
                   />
                 </div>
 
-                <span>8888888</span>
+                <span>adone</span>
                 <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
               </div>
               <Comments frontMatter={frontMatter} />

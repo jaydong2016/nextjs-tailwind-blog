@@ -1,11 +1,11 @@
 ---
-name: j
+name: adone
 avatar: /static/images/avatar.png
-occupation: 无
-company: 无
-email: 123@163.com
-juejin: https://123.cn/user/2189882895384093
-zhihu: https://www.zhihu.com/people/123-ma-15-3
-github: https://github.com/123
+occupation: 
+company: 
+email: hwd2014@outlook.com
+juejin: 
+zhihu: 
+github: 
 ---
-测试
+空空如也

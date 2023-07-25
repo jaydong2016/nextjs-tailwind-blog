@@ -1,9 +1,8 @@
 const headerNavLinks = [
   { href: '/blog', title: '文章' },
   { href: '/tags', title: '标签' },
-  { href: '/adone', title: 'adone' },
-  { href: '/projects', title: '项目' },
-  { href: 'https://adone.eu.org/', title: '那谁' },
+  { href: '/kk', title: 'kk' },
+  { href: 'https://sbai.dongstop.link/', title: 'hapiGPT' },
   { href: '/about', title: '关于' },
 ]
 
